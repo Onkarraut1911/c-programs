@@ -1,0 +1,140 @@
+/.vs
+/1.hello_world
+/10.the_one_d_array.c
+/11.the_two_d_array.c
+/12.check_number_small_or_big_than_10.c
+/13.multiplication_tables_of_number.c
+/14.average_of_two_numbers.c
+/15.array_of_ptr.c
+/15.check_number_even_or_odd_using_if_else.c
+/16.check_number_even_or_odd_using_for_loop.c
+/17.check_number_even_or_odd_using_goto.c
+/18.check_the_largest_number_using_ladder_if_else.c
+/19.check_number_small_or_big_using_condtional_statement.c
+/2.addition_of_two_numbers
+/2.addition_of_two_numbers.c
+/20.check_number_positive_or_negative.c
+/21.check_number_prime_or_not_using_goto.c
+/22.argument_with_no_return_value.c
+/3.area_of_reactangle.c
+/4.area_of_triangle.c
+/5.area_of_circle.c
+/6.simple_for_loop.c
+/7.simple_while_loop.c
+/8.squar_of_number.c
+/9.simple_structure.c
+/a.exe
+/abc.c
+/abc.cpp
+/abc.exe
+/abcd.c
+/abcd.exe
+/addition and average.c
+/addtion.c
+/akash.c
+/akash.exe
+/akshay.c
+/akshay_raut.c
+/alphabet_or_not.c
+/amstrongno.c
+/area and perimeter.c
+/arithmetic operators works on int.c
+/arithmetic operators.c
+/array_in_function.c
+/array_of_object.cpp
+/arry_reverse.c
+/assignment operators.c
+/atul.c
+/break and continue keywords.c
+/cal reminder.c
+/check_no_divisible_by_5_and_11.c
+/check_odd_no_1_to_n.c
+/check_palindrome_number_.c
+/comparison operators.c
+/comparison operators.exe
+/decimal_to_binary.cpp
+/decimal_to_binary.exe
+/distance conversion.c
+/do while print number from 1 to 10.c
+/do while.c
+/drawback of if else ladder.c
+/employee.cpp
+/escape.c
+/even numbers using for.c
+/exponential form.c
+/factorial.c
+/field with specifiers.c
+/field.c
+/first.cpp
+/first.exe
+/for loop for square of number.c
+/for loop print ASCII value.c
+/for loop.c
+/for.c
+/function max.c
+/gajanana.c
+/game.cpp
+/global_variable.c
+/greater.c
+/greater_no_in_the_array.cpp
+/greater_no_in_the_array.exe
+/hatech.c
+/hello.c
+/hello1.c
+/hello1.exe
+/helloworld.c
+/helloworld.exe
+/if statement and its variables.c
+/if statement.c
+/inc and dec.c
+/logical operators.c
+/matrix_multiplication.cpp
+/matrix_multiplication.exe
+/maximum number.c
+/modulus operator.c
+/nested for loop.c
+/null_pointer.cpp
+/or not operator.c
+/pair.cpp
+/perimeter of circle.c
+/pointer1.c
+/prime_no.c
+/print_number_without_using_loop.c
+/program.c
+/programs.c
+/radius.cpp
+/random_no.cpp
+/re.c
+/recursion.cpp
+/recursion.exe
+/reminder.c
+/reminder.cpp
+/say hello function.c
+/selection_sort.cpp
+/selection_sort.exe
+/simple interest.cpp
+/SimpleFunctionProgram.c
+/simplepatternprogramofrectangle.c
+/square root.c
+/starpatern.c
+/string.c
+/struct.c
+/structure.c
+/structure1.c
+/swap_no_using_pointer.c
+/swap_no_without_third_variable.cpp
+/swap_no_without_third_variable.exe
+/switch statement.c
+/switch statement1,2,3.c
+/switch statement1.c
+/tempCodeRunnerFile.c
+/turnary operator.c
+/types of constants.c
+/types of expression.c
+/unary operator.c
+/union.c
+/vector1.cpp
+/void_pointer.cpp
+/volume of cube.c
+/while loop.c
+/with_argument_with_return_value.c
